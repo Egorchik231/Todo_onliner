@@ -1,4 +1,5 @@
 {
   "port": 5000,
+  "jwtSecret": "qwert",
   "mongoURL": "mongodb+srv://egorchik231:rewq4321@cluster0.ru1mc.mongodb.net/app?retryWrites=true&w=majority'"
 }
